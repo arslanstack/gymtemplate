@@ -1,0 +1,395 @@
+body{
+    overflow-x: hidden;
+}
+#topbtn {
+    /* padding: 0; */
+    padding: 0.5rem 1rem;
+    border-radius: 0;
+    font-size: 14px;
+    font-weight: normal;
+}
+
+#topbtn:hover {
+    color: black;
+}
+
+#brand {
+    padding-top: none;
+    padding-bottom: none;
+    padding-top: 0;
+    padding-top: 0;
+}
+
+#topnav {
+    font-size: 14px;
+    font-weight: normal;
+    letter-spacing: 2px;
+    padding: 20px;
+}
+
+#topsec {
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('/assets/imgs/hero.png');
+    width: 100%;
+    height: auto;
+    /* background-size: contain; */
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#navbarSupportedContent {
+    margin-left: 16px;
+}
+
+#orange {
+    color: #FA7C30;
+    letter-spacing: 3px;
+    font-size: 800;
+}
+#orange2{
+    color: #FA7C30;
+}
+
+#headings {
+    letter-spacing: 3px;
+    font-size: 800;
+}
+
+#coversec {
+    padding: 140px 0px 360px;
+}
+
+#random {
+    padding: 0px 141px;
+}
+
+.herobtn {
+    background-color: #FA7C30;
+    color: white;
+    font-size: 12px;
+    letter-spacing: 2px;
+    padding: 10px 16px;
+    border: none;
+    margin-top: 50px;
+}
+
+#secondsec {
+    background-color: #F1F4F6;
+    padding-top: 72px;
+}
+
+#textfit {
+    padding: 200px 0px;
+}
+
+#titlefit {
+    font-size: 26px;
+    font-weight: 700;
+    margin-bottom: 1.5rem;
+}
+
+#parafit {
+    font-weight: 700;
+    text-align: justify;
+    margin-bottom: 1.5rem;
+}
+
+#parafitlight {
+    color: #999A9D;
+    font-weight: 700;
+    text-align: justify;
+
+}
+
+#legupimg {
+    width: 100%;
+    height: auto;
+}
+
+#secondsecbtn {
+    background-color: #FA7C30;
+    color: white;
+    font-size: 12px;
+    letter-spacing: 2px;
+    padding: 10px 16px;
+    border: none;
+    margin-top: 25px;
+}
+
+#card1 {
+    background-color: #F1F4F6;
+    border: none;
+}
+
+.card-title {
+    font-weight: 700;
+    font-size: 27px;
+}
+
+#cardbtn {
+    background-color: #FA7C30;
+    color: white;
+    font-size: 12px;
+    letter-spacing: 2px;
+    padding: 10px 16px;
+    border: none;
+    margin-top: 25px;
+}
+
+#cardtopper {
+    padding-top: 72px;
+    /* margin-top: 42px; */
+    margin-bottom: 28px;
+}
+
+#hero2 {
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('/assets/imgs/plank.png');
+    width: 100%;
+    height: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    /* position: relative; */
+}
+
+#hero2text {
+    padding: 169px 0px;
+    justify-content: center;
+    text-align: center;
+}
+
+#hero2btn {
+    background-color: #FA7C30;
+    color: white;
+    font-size: 12px;
+    letter-spacing: 2px;
+    padding: 10px 16px;
+    border: none;
+    margin-top: 25px;
+}
+
+#chota {
+    font-size: 50px;
+    font-weight: 300;
+}
+
+#bara {
+    font-size: 70px;
+    font-weight: 700;
+}
+
+#cardsection1 {
+    margin-bottom: 72px;
+}
+#card2{
+    border: none;
+    justify-content: center;
+    text-align: center;
+}
+.card-subtitle{
+    color: #FA7C30;
+    font-weight: 700;
+}
+#hero3 {
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('/assets/imgs/left.png');
+    width: 100%;
+    height: auto;
+    background-repeat: no-repeat;
+    /* background-position: center; */
+    background-size: cover;
+    /* position: relative; */
+}
+#hero4{
+    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('/assets/imgs/right.png');
+    width: 100%;
+    height: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    /* position: relative; */
+}
+
+#hero3text {
+    padding: 115px 0px;
+    justify-content: center;
+    text-align: center;
+}
+
+#hero3btn {
+    background-color: #FA7C30;
+    color: white;
+    font-size: 12px;
+    letter-spacing: 2px;
+    padding: 10px 16px;
+    border: none;
+    margin-top: 25px;
+}
+
+#chota3 {
+    font-size: 15px;
+    font-weight: 600;
+}
+
+#bara3 {
+    font-size: 35px;
+    font-weight: 700;
+}
+
+
+#footer{
+    background-color: #161418;
+    padding: 50px 0px 25px;
+}
+.footertext{
+    color: #999A9D;
+    font-size: 16px;
+}
+#footerinput, #footerbtn{
+    margin-top: 30px;
+    padding: 4px 20px;
+    height: 36px;
+    border: none;
+}
+#footerbtn{
+    background-color: #FA7C30;
+    color: white;
+}
+.blogimg{
+    width: 100%;
+    height: auto;
+}
+/* .blogtext{
+
+} */
+svg:hover{
+    fill: #FA7C30;
+}
+#footerp{
+    margin-left: 10px;
+    margin-top: 5px;
+    color: #999A9D;
+    font-size: 14px;
+    line-height: 25px;
+}
+#footerpend{
+    margin-top: 10px;
+    color: #999A9D;
+    font-size: 14px;
+}
+.footerlink{
+    color: #FA7C30;
+    text-decoration: none;
+}
+#footerlinker{
+    justify-content: center;
+    text-align: center;
+}
+.galimg{
+    width: 100%;
+    height: auto;
+}
+@media (max-width: 768px) {
+    #topsec {
+        background-size: cover;
+    }
+
+    .display-4 {
+        font-size: 2.5rem;
+    }
+
+    #coversec {
+        padding: 68px 0px 75px;
+    }
+
+    #random {
+        padding: 0px 47px;
+    }
+
+    #parafit {
+        padding: 0px 50px;
+        text-align: center;
+    }
+
+    #parafitlight {
+        padding: 0px 50px;
+        text-align: center;
+
+    }
+
+    #textfit {
+        text-align: center;
+        padding: 100px 0px;
+    }
+
+    #cardtopper {
+        justify-content: center;
+        text-align: center;
+    }
+
+    #chota {
+        font-size: 40px;
+        font-weight: 300;
+    }
+
+    #bara {
+        font-size: 60px;
+        font-weight: 700;
+    }
+    #hero2{
+        background-position: left center;
+    }
+    #footersec1{
+        justify-content: center;
+        text-align: center;
+        /* margin-top: 80px; */
+    }
+    #footersec2, #footersec3{
+        text-align: center;
+        margin-top: 50px;
+    }
+    #footerp{
+        margin-left: -170px;
+    }
+
+}
+
+@media (max-width: 480px) {
+    .display-4 {
+        font-size: 1.4rem;
+    }
+
+    #topsec {
+        background-size: cover;
+    }
+
+    #coversec {
+        padding: 40px 0px 57px;
+    }
+
+    #random {
+        justify-content: center;
+        text-align: center;
+    }
+
+    .herobtn {
+        background-color: #FA7C30;
+        color: white;
+        font-size: 10px;
+        letter-spacing: 1px;
+        padding: 9px 11px;
+        border: none;
+        margin-top: 5px;
+    }
+
+    #chota {
+        font-size: 24px;
+        font-weight: 300;
+    }
+
+    #bara {
+        font-size: 34px;
+        font-weight: 700;
+    }
+    #footerp{
+        margin-left: 0;
+    }
+}
